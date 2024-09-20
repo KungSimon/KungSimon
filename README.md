@@ -1,7 +1,4 @@
-<div style="background-color: black; color: white; padding: 20px;">
-
-![Welcome (1)](https://github.com/user-attachments/assets/d662107b-c989-4d3f-b527-75ec79cd5f47)
-
+<img src="https://github.com/user-attachments/assets/899d856e-9e5c-4892-bc8b-bd66f6b4c84d" alt="SkärmklippSimon" algin="center" />
 <h1 align="center">Hi 👋, I'm Simon Näslund</h1>
 <h3 align="center">A passionate backend developer from Sweden</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif">
@@ -34,10 +31,23 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kungsimon&show_icons=true&locale=en&layout=compact" alt="kungsimon" /></p>
+<table>
+  <tr>
+    <!-- GitHub stats on the left -->
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kungsimon&show_icons=true&locale=en&layout=compact" alt="kungsimon" width="400"/>
+    </td>
+    <!-- Streak stats on the right -->
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=kungsimon" alt="kungsimon" width="400"/>
+    </td> 
+    <td> 
+      <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=kungsimon&show_icons=true&locale=en" alt="kungsimon" width="400" /></p>
+    </td>
+  </tr>
+</table>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kungsimon&show_icons=true&locale=en" alt="kungsimon" /></p>
+![Remove background project (3)](https://github.com/user-attachments/assets/1afe9ffc-8d7a-4979-b603-9dcffe3313d3)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kungsimon&" alt="kungsimon" /></p>
 
-</div>
+
