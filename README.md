@@ -38,10 +38,6 @@
 
 ###
 
-<img align="right" height="150" src="https://camo.githubusercontent.com/c80c2231f12607bec49da9c67eefe6aca8d1da60130305842e9f8af4fb0af534/68747470733a2f2f6d656469612e74656e6f722e636f6d2f476653582d753756474d34414141414d2f636f64696e672e676966"  />
-
-###
-
 <div align="left">
   <a href="https://discordapp.com/users/Simon.N#6487" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
@@ -53,6 +49,10 @@
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
   </a>
 </div>
+
+###
+
+<img align="right" height="150" src="https://camo.githubusercontent.com/c80c2231f12607bec49da9c67eefe6aca8d1da60130305842e9f8af4fb0af534/68747470733a2f2f6d656469612e74656e6f722e636f6d2f476653582d753756474d34414141414d2f636f64696e672e676966"  />
 
 ###
 
