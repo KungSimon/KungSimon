@@ -52,12 +52,16 @@
 
 ###
 
-<img align="right" height="150" src="https://camo.githubusercontent.com/c80c2231f12607bec49da9c67eefe6aca8d1da60130305842e9f8af4fb0af534/68747470733a2f2f6d656469612e74656e6f722e636f6d2f476653582d753756474d34414141414d2f636f64696e672e676966"  />
+<div align="center">
+  <img height="200" src="https://camo.githubusercontent.com/c80c2231f12607bec49da9c67eefe6aca8d1da60130305842e9f8af4fb0af534/68747470733a2f2f6d656469612e74656e6f722e636f6d2f476653582d753756474d34414141414d2f636f64696e672e676966"  />
+</div>
 
 ###
 
 <div align="center">
-  <img height="200" src="https://github-production-user-asset-6210df.s3.amazonaws.com/143598052/369351854-1afe9ffc-8d7a-4979-b603-9dcffe3313d3.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241112%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241112T130121Z&X-Amz-Expires=300&X-Amz-Signature=3378b05009a57243fdc37322d7426a3da9313607c5268dd4d2e8b09c0cc593fb&X-Amz-SignedHeaders=host"  />
+  <a href="https://open.spotify.com/user/mrskateboy99">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=mrskateboy99&count=1&unique=false" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ###
